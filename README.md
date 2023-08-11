@@ -1,6 +1,6 @@
 # NLP-work
-General Overview
-1. Introduction to NLTK
+# General Overview
+#1. Introduction to NLTK
 2. Working with NLTK builtin datasets
 
 3.Preprocessing and cleaning datasets
